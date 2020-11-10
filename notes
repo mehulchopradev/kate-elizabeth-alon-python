@@ -1,0 +1,16 @@
+Write software emulates the real world - Object oriented programming (OOP)
+
+1. Real world actors -> Objects in the RAM (data points in the RAM)
+    'mehul chopra' -> RAM (5004) -> object
+    34 -> RAM (5007) -> object
+    Student -> object
+    Student -> object
+    Professor -> object
+    Professor -> object
+
+    class -> 1 to n objects
+    class gives a data type to an object -> name of the class -> data type of the object
+
+2. Real world actor characteristics -> Attributes of the object in the RAM
+
+3. Real world actor actions -> Methods called on the object
