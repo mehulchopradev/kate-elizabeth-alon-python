@@ -80,4 +80,5 @@ while True:
         # print(factorial(n))
         print(fact(n))
     else:
+        # print(n) # this will not work if at the start the user chooses the option 5
         break # breaks out forcibly from the closest loop

@@ -5,6 +5,11 @@ def get_details(name, gender, roll, marks):
         '\nRoll: ' + str(roll) + '\nMarks: ' + str(marks)
 
 def get_grade(marks):
+    '''
+    Scope of variables in Python is
+    1. The entire file
+    2. The enclosing function
+    '''
     if marks > 100 or marks < 0:
         grade = 'Invalid'
     elif marks >= 70:

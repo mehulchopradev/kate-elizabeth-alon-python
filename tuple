@@ -1,0 +1,6 @@
+- Data structure
+- Group related data together
+- Characteristics of an actor can be grouped inside a tuple object
+- Very much like row that we see in a database table
+- Maintains order of the data put inside a tuple
+- Allows duplicates
