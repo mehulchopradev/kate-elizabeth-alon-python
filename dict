@@ -1,0 +1,7 @@
+- data structure
+- key:value based data structure
+- key in the dict data structure is suppose to be unique
+- Every item that we put in this data structure - 
+    - key : Immutable python object
+    - value: Any python object
+- dict as a data structure is mutable

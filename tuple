@@ -1,6 +1,8 @@
 - Data structure
-- Group related data together
+- Group related data together - Hetrogenous data (name, gender, roll)
 - Characteristics of an actor can be grouped inside a tuple object
 - Very much like row that we see in a database table
 - Maintains order of the data put inside a tuple
 - Allows duplicates
+- A tuple is an immutable data structure : once a tuple is created, one cannot add/remove/modify elements
+in a tuple

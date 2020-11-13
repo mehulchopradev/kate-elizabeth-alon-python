@@ -1,0 +1,5 @@
+- Data structure
+- That does not allow duplicate elements
+- It does not have any order - No guarantee on the order of the elements in a set
+- It is mutable object
+- To perform mathematical set operations

@@ -1,0 +1,6 @@
+- Data structure
+- Group related data together - Homogeous data - (10, 3, 5, 5, 10, 3)
+- Maintains order of the data put inside a list
+- Allows duplicates
+- A list is a mutable data structure : after a list is created, one can add/remove/modify elements
+in a list

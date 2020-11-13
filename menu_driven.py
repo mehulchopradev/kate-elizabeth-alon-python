@@ -54,11 +54,13 @@ from com.abc.lib.math import even_odd
 from math import factorial as fact
 
 while True:
-    print('1. Fibo Series')
+    ''' print('1. Fibo Series')
     print('2. Odd Series')
     print('3. Even or Odd')
     print('4. Factorial')
-    print('5. Exit')
+    print('5. Exit') '''
+
+    print('1. Fibo Series', '2. Odd Series', '3. Even or Odd', '4. Factorial', '5. Exit', sep='\n')
 
     choice = int(input('Please enter ur choice: '))
     if choice == 1 or choice == 2 or choice == 3 or choice == 4:
