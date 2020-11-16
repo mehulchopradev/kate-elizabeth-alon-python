@@ -21,11 +21,27 @@ print(p1.name)
 print(p1.gender)
 print(p1.subjects) '''
 
-print(s1.get_details())
+i = 45
+
+print(i)
+# Internally
+# print(i.__str__())
+
+print(s1)
+# Internally
+# print(s1.__str__())
+# print(Student.__str__(s1))
+
+print(p1)
+# Internally
+# print(p1.__str__())
+# print(Professor.__str__(p1))
+
+# print(s1.get_details())
 # Internally
 # Student.get_details(s1)
 
 
-print(p1.get_details())
+# print(p1.get_details())
 # Internally
 # Professor.get_details(p1)

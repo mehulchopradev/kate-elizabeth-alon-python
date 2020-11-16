@@ -1,0 +1,3 @@
+python interpreter -> play_input -> int('mehul') -> ValueError -> play_input -> rethrows the ValueError -> python interpreter
+
+python interpreter -> play_input -> int('mehul') -> ValueError -> play_input -> handle the ValueError thrown to it
